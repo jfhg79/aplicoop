@@ -1,2 +1,0 @@
-# aplicoop
-Begin app
